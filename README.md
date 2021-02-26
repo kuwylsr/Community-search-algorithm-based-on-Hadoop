@@ -61,11 +61,38 @@ $$
 
 ## 项目结构
 
-- convectFile 数据预处理
-- cd_v1 社区发现算法1, PSCAN算法(并行形式)
-- cd_v2 社区发现算法2, PCPM算法(并行形式)
-- cs_v1 社区查找算法, IICS算法
-- core-site.xml 特定的hadoop属性配置文件
-- hdfs-site.xml 特定的HDFS属性配置文件
-- mapred-site.xml 特定的mapreduce属性配置文件
-- log4j.properties 日志配置文件
+- `convectFile` 
+
+  数据预处理
+
+- `cd_v1` 
+
+  社区发现算法1, PSCAN算法(并行形式)
+
+- `cd_v2` 
+
+  社区发现算法2, PCPM算法(并行形式)
+
+- `cs_v1` 
+
+  社区查找算法, IICS算法
+
+- `core-site.xml` 
+
+  特定的hadoop属性配置文件
+
+- `hdfs-site.xml`
+
+  特定的HDFS属性配置文件
+
+- `mapred-site.xml`
+
+  特定的mapreduce属性配置文件
+
+- `log4j.properties`
+
+  日志配置文件
+
+- `report.pdf`
+
+  项目报告
