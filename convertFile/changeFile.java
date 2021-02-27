@@ -33,7 +33,6 @@ public class changeFile {
 				if (!temp.equals("")) {
 					temp = temp + '\n';
 				}
-//				System.err.println("11");
 				temp = temp + content[0] + ":" + content[1];
 			} else {
 				temp = temp + "," + content[1];
